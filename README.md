@@ -1,4 +1,4 @@
-<h1 align="center">Hi Namaste Ni Hao Hola 👋, I'm Pranav Todkar</h1>
+<h1 align="center">Hi! Namaste! Ni Hao! Hola! 👋, I'm Pranav Todkar</h1>
 <h3 align="center">Web and app developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavtodkar&label=Profile%20views&color=0e75b6&style=flat" alt="pranavtodkar" /> </p>
